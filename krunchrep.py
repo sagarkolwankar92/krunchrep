@@ -4,7 +4,6 @@ from bs4 import BeautifulSoup
 import re
 import pdfplumber
 from io import BytesIO
-import matplotlib.pyplot as plt
 from datetime import datetime
 
 st.set_page_config(page_title="KrunchRep", layout="wide")
